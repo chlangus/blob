@@ -19,7 +19,8 @@
 </br>
 
 
-[🔗 notion 바로가기](https://www.notion.so/Sprint-Part4-Team4-b7b1ab535d0e4907bd730d132c5a3199)
+[🔗 notion 바로가기](https://www.notion.so/Sprint-Part4-Team4-b7b1ab535d0e4907bd730d132c5a3199)   
+[🔗 Blob 바로가기](https://blob-omega.vercel.app/)
 
 </div>
 
