@@ -78,6 +78,28 @@
 
 <img width="733" alt="스크린샷 2024-05-22 오후 10 07 29" src="https://github.com/PROJECT-BLOB/front-end/assets/72595163/417a364b-f4ab-487c-8a85-7c222a43d2e4">
 
+### [Next.js](https://nextjs.org/)
+- pre-rendering을 통해 더 빠른 로딩속도와 SEO 측면에서 뛰어남
+- 직관적인 라우팅 방식과 에러페이지 및 중첩레이 아웃등의 자체 기능 제공
+- react의 장점과 nextjs의 장점을 둘 다 누리기 위해 선택
+- 라우팅에서 module.css를 불러오지 못하는 문제가 있었는데 버전문제였던걸 알게 됐고, 아직 불안정하단걸 체감
+<br />
+
+### [Typescript](https://typescriptlang.org/)
+- 객체 안의 필드값을 리스트업 해주기 때문에 생산성 향상에 큰 기여
+- 컴파일 타임에 타입 오류를 체크해 주어서, 실행을 하지 않아도 오류 체크 가능
+<br />
+
+### [Zustand](https://zustand-demo.pmnd.rs/)
+- 낮은 러닝커브로 인한 개발 속도 증가
+- 프로젝트 규모에 번들 사이즈도 가볍고 코드량이 적은 zustand 선택
+- 한곳에서 관리하는 flux 방식으로 공유되는 상태를 관리하는데 효과적
+<br />
+
+### [ReactQuery](https://tanstack.com/)
+- useState, useEffect를 사용할 때보다 data fetching 과정이 단순
+- key로 데이터를 조작하기 때문에 데이터 흐름 파악에 용이
+- 데이터를 캐싱해 불필요한 api 요청 감 
 <br />
 
 ## 🗂 문서
