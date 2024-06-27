@@ -42,9 +42,7 @@
 
 ### 🗺️ 지도 페이지
 
-<div align=center> 
-    <img align-center width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/c1fcd52f-4167-42c1-8520-f6b9c1915738'/>   
-</div>
+<img align-center width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/c1fcd52f-4167-42c1-8520-f6b9c1915738'/>   
 
 <br />
 
@@ -54,32 +52,29 @@
 - 자동완성 검색창을 통해 지역과 나라를 검색하고 이동할 수 있습니다.
 - 카테고리를 지정해 원하는 정보가 담긴 글만 필터링 해서 볼 수 있습니다.
 - 글 작성 후, 24시간이 지나면 지도 페이지에서 글이 사라집니다.
-- 좋아요를 받으면 남은 시간이 30분씩 연장됩니다.
+- 좋아요를 받으면 남은 시간이 30분씩 연장됩니다.ㅇㅇㅇㅇ
 
 ### ✍️ 글 작성
-<div align=center> 
+<img width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/48afc15e-dae5-4598-b3b0-37cbf8d7561c'/>    
 
-<img width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/48afc15e-dae5-4598-b3b0-37cbf8d7561c'/>
-</div>
-<br />   
+<br/>       
+
 
 - 검색을 통해 현재 보고있는 위치가 아닌, 다른 나라에도 설정할 수 있습니다
 - 미니맵으로 자세한 위치를 설정할 수 있습니다.
 - 사진은 5장까지 첨부할 수 있습니다.
 
 ### 🪧 피드 페이지
-<div align=center> 
 <img width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/2f0986cd-a922-4fc0-b8f5-aae751480bad'/>
-</div>
+
 <br />  
 
 - 모든 글을 조회 할 수 있습니다.
 - 필터링으로 기간도 설정할 수 있고, 이미지가 있는 글, 상세위치가 있는 글까지 모아볼 수 있습니다.
 
 ### 🗂 마이 페이지
-<div align=center> 
 <img width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/0e4c5306-1ad4-4dfe-9d9b-0a6837fc226b'/>
-</div>
+
 <br />  
 
 - 프로필 정보를 다른사람이 보지 못하도록 비공개 설정을 할 수 있습니다.
@@ -87,9 +82,8 @@
 - 내가 작성한 글, 북마크한 글, 댓글 단 글을 모아볼 수 있습니다
 
 ### 🛎️ 알림
-<div align=center> 
 <img width=300 height=350 src='https://github.com/chlangus/blob/assets/139041897/6ff12dc0-cb0b-412d-8544-f1d2d14bcc81'/>
-</div>
+
 <br />  
 
 - 누군가 내 글에 좋아요를 남기거나, 댓글을 달게 되면 알림창에 알림이 뜨게 됩니다.
